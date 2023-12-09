@@ -11,6 +11,8 @@ THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
 
 ## GL-DancingMen （シャーロックホームズの「踊る人形」）
 
+<img src="https://github.com/Gutenberg-Labo/GL-DancingMen/blob/main/documents/GL-DancingMen.svg" width="95%" alt="GL-DancingMen - Open Source Font" />
+
 Cipher from "The Adventure of the Dancing Men", The Return of Sherlock Holmes by Arthur Conan Doyle.\
 Glyphs F, J, K, Q, U, W, X, Z and numarals are our original design.
 
@@ -21,12 +23,14 @@ Glyphs F, J, K, Q, U, W, X, Z and numarals are our original design.
 
 ## GL-DancingMen-Org （「踊る人形」オリジナル画像版）
 
+<img src="https://github.com/Gutenberg-Labo/GL-DancingMen/blob/main/documents/GL-DancingMen-Org.svg" width="95%" alt="GL-DancingMen-Org - Open Source Font" />
+
 For the 10th anniversary of GL-DancingMen, we made one more cipher font from original illustration.\
+Glyphs F, J, K, Q, U, W, X, Z and numerals are the same as GL-DancingMen.\
 We have made all CHARACTERS appeard in original work into font data. So some characters have alternate glyphs.\
-In this font, 7 discretionary ligatures (dlig) are prepared. For details, please see the ReadMe text.\
-Glyphs F, J, K, Q, U, W, X, Z and numerals are the same as GL-DancingMen.
+In this font, 7 discretionary ligatures (dlig) are prepared. For details, please see the [ReadMe](https://github.com/Gutenberg-Labo/GL-DancingMen/blob/main/documents/GL-DancingMen-Org-readme.txt) text.
 
 GL-DancingMen制作10周年を記念して、「踊る人形」原著画像によるバージョンを制作しました。\
 本編中に出てこない F、J、K、Q、U、W、X、Z の字形は GL-DancingMenに合わせて合成・作成しました。\
 本編中に出てきた「文字」はすべてフォントに含まれており、重複する文字には異体字の設定があります。\
-また、原著に出てくる文字列になるように打つときには「任意の合字（dlig）」の設定があります。詳しくはReadMeをご覧ください。
+また、原著に出てくる文字列になるように打つときには「任意の合字（dlig）」の設定があります。詳しくは[ReadMe](https://github.com/Gutenberg-Labo/GL-DancingMen/blob/main/documents/GL-DancingMen-Org-readme.txt)をご覧ください。
